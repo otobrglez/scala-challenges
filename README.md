@@ -1,6 +1,6 @@
 # Scala in Akka - Za najzahtevnejše izzive
 
-![Scala in Akka - Za najzahtevnješje izzive (Slides)](public/title.png)
+[![Scala in Akka - Za najzahtevnješje izzive (Slides)](public/title.png)](public/scala-in-akka_oto-brglez.pdf)
 
 Repozitorij vsebuje Keynote in [PDF predstaviteve](public/scala-in-akka_oto-brglez.pdf) ter vso kodo, ki je bila napisana v sklopu predavanja.
 
